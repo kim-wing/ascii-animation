@@ -1,0 +1,4 @@
+interface:
+  display_name: "ASCII Animation"
+  short_description: "Build articulated ASCII creatures with living motion"
+  default_prompt: "Use $ascii-animation to build a locally previewable animated ASCII creature."
